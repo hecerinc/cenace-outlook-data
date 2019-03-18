@@ -1,0 +1,1 @@
+fecha,zdc_id,hora,cdm,cim,eta

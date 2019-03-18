@@ -1,0 +1,1 @@
+hora,node_id,pml,energia,perdidas,congestion,fecha

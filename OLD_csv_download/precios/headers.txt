@@ -1,0 +1,1 @@
+Hora,Clave del nodo,Precio marginal local ($/MWh),Componente de energia ($/MWh),Componente de perdidas ($/MWh),Componente de congestion ($/MWh)
